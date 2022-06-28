@@ -1,0 +1,45 @@
+h2 {
+    color: violet;
+    font-family: arial;
+    font-size: 25px;
+    background-color: aqua;
+    width: fit-content;
+}
+
+h1 {
+    text-align: center;
+    color: blueviolet;
+}
+
+p {
+    color: blueviolet;
+    font-family: arial;
+    text-shadow: 4px 4px 9px rgba(0, 0, 0, 0.74);
+}
+
+li {
+    font-family: arial;
+}
+
+img {
+    width: 400px;
+    filter: grayscale(82%);
+}
+
+div {
+    width: 210px;
+    height: 200px;
+    text-align: left;
+    background-color: brown;
+    box-shadow: -7px 37px 60px 6px rgba(0, 0, 0, 0.57);
+    border: 20px dashed #ff6550;
+    border-radius: 0px 200px 200px 200px;
+    -webkit-border-radius: 0px 200px 200px 200px;
+    -moz-border-radius: 0px 200px 200px 200px;
+
+}
+
+.destacados{
+    color: blue;
+    font-weight: bold;
+}
